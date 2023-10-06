@@ -27,3 +27,7 @@ Performed the testing process of the web app: https://live.browserstack.com/dash
 ngrok dashboard: https://dashboard.ngrok.com/get-started/setup
 
 Access token used: 2WN5Foh35Drg7kDdIOqcKtqXke5_S5pZmiTJzKozgkZrfCq8
+
+Medium article link:
+
+
