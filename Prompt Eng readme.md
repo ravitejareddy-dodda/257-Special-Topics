@@ -7,3 +7,5 @@ ALso wrote an app which will critique a given prompt for all the missing informa
 Shared Chat on best practices for prompt engineering:
 
 https://chat.openai.com/share/2a2a23e7-3b61-4a44-9a50-3080353a6ffe
+
+medium.com article on best practices for writing prompts: 
