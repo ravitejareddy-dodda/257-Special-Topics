@@ -22,9 +22,7 @@ It's compiled using the Adam optimizer, sparse categorical cross-entropy as the 
 
 
 
-NanoGPT in JAX/Flax:
-
-https://colab.research.google.com/drive/15t-eM5P3KiipXrhjSAYxAAm-AvGuIrwd?usp=sharing
+NanoGPT in JAX/Flax: https://colab.research.google.com/drive/15t-eM5P3KiipXrhjSAYxAAm-AvGuIrwd?usp=sharing
 
 NanoGPT using PyTorch: https://colab.research.google.com/drive/1KCXBM3F1_5WV4Y51xRcHSUJUt0Ty5wTW?usp=sharing
 
