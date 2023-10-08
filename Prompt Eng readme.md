@@ -20,6 +20,8 @@ Steps followed:
 
 3. Designing the User Experience (UX).
 
+Google colab link: https://colab.research.google.com/drive/1kqUD0xzWfxbK9686hK26roLK2Yeq-Ah0#scrollTo=oGsIOF8exeYo
+
 Web App link is here: http://localhost:8501/
 
 Performed the testing process of the web app: https://live.browserstack.com/dashboard#os=OS+X&os_version=Ventura&browser=Safari&browser_version=16.5&zoom_to_fit=true&full_screen=true&url=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3Dhttp%3A%2F%2Flocalhost%3A8501%2F&speed=1
