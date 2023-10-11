@@ -30,6 +30,6 @@ ngrok dashboard: https://dashboard.ngrok.com/get-started/setup
 
 Access token used: 2WN5Foh35Drg7kDdIOqcKtqXke5_S5pZmiTJzKozgkZrfCq8
 
-Medium article link:
+Medium article on the process involved on creating perfect prompt generation with UX: https://medium.com/@ravitejareddy.dodda/building-the-prompt-generator-with-gradio-streamlit-and-gpt-4-7185d5ba8dda
 
 
