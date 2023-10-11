@@ -1,4 +1,5 @@
-a)
+a) Implementation of nanogpt from scratch
+
 NanoGPT with TensorFlow: https://colab.research.google.com/drive/14ACCK-HZMX8mXt1sAl1eZZghgN9HuRiy#scrollTo=2oDYQc1GrNr6
 
 NanoGPT using TensorFlow
