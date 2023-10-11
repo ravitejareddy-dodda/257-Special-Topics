@@ -1,3 +1,4 @@
+a)
 NanoGPT with TensorFlow: https://colab.research.google.com/drive/14ACCK-HZMX8mXt1sAl1eZZghgN9HuRiy#scrollTo=2oDYQc1GrNr6
 
 NanoGPT using TensorFlow
@@ -20,8 +21,6 @@ Model Initialization and Compilation:
 The model is initialized with specified hyperparameters: vocabulary size, model dimensions, and the number of attention heads.
 It's compiled using the Adam optimizer, sparse categorical cross-entropy as the loss function, and accuracy as a metric.
 
-
-
 NanoGPT in JAX/Flax: https://colab.research.google.com/drive/15t-eM5P3KiipXrhjSAYxAAm-AvGuIrwd?usp=sharing
 
 NanoGPT using PyTorch: https://colab.research.google.com/drive/1KCXBM3F1_5WV4Y51xRcHSUJUt0Ty5wTW?usp=sharing
@@ -32,3 +31,7 @@ Transformer Block: The heart and soul of the model.
 Multi-head Self Attention: Enables the model to focus on different parts of the input text.
 Feed-forward Neural Network: A straightforward fully connected neural network.
 Output Layer: Produces probability distributions over the vocabulary for each token in the sequence.
+
+medium article explaining sections of code in depth: https://medium.com/@ravitejareddy.dodda/large-language-models-and-transformers-building-nanogpt-04a2097f7280
+
+
