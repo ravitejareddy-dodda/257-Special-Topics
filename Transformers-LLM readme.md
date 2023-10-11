@@ -1,4 +1,4 @@
-a) Implementation of nanogpt from scratch
+a) Implementation of nanogpt from scratch:
 
 NanoGPT with TensorFlow: https://colab.research.google.com/drive/14ACCK-HZMX8mXt1sAl1eZZghgN9HuRiy#scrollTo=2oDYQc1GrNr6
 
@@ -35,4 +35,23 @@ Output Layer: Produces probability distributions over the vocabulary for each to
 
 medium article explaining sections of code in depth: https://medium.com/@ravitejareddy.dodda/large-language-models-and-transformers-building-nanogpt-04a2097f7280
 
+b) Implement "textbooks are all you need" case study:
+
+Colab link: https://colab.research.google.com/drive/1-r7SmaoIwNarpJNCXYHvnviMTad1J1vi#scrollTo=CgSEKzoMmOcC
+
+This code does the following:
+
+Installs necessary libraries.
+
+-Fetches the content of "A First Book in Algebra" from Project Gutenberg and preprocesses it.
+
+-Tokenizes the content.
+
+-Defines a dataset to feed data in chunks (sequences) to the model.
+
+-Initializes the GPT-2  model.
+
+-Trains the model on the textbook content.
+
+-Generates some sample text based on the trained model.
 
