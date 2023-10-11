@@ -32,4 +32,4 @@ Access token used: 2WN5Foh35Drg7kDdIOqcKtqXke5_S5pZmiTJzKozgkZrfCq8
 
 Medium article on the process involved on creating perfect prompt generation with UX: https://medium.com/@ravitejareddy.dodda/building-the-prompt-generator-with-gradio-streamlit-and-gpt-4-7185d5ba8dda
 
-
+c) full web app for prompt library with prompt search (use pinecone langchain library) : https://colab.research.google.com/drive/1qlqT61fYTjAP6W18E4GCv3bUDQHG_pSf#scrollTo=6nKID6HdgV01
