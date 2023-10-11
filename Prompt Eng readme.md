@@ -8,7 +8,7 @@ Shared Chat on best practices for prompt engineering:
 
 https://chat.openai.com/share/2a2a23e7-3b61-4a44-9a50-3080353a6ffe
 
-medium.com article on best practices for writing prompts: 
+medium.com article on best practices for writing prompts: https://medium.com/@ravitejareddy.dodda/best-practices-for-writing-prompts-chatgpt-667f9374afd8
 
 b) Streamlit application for  prompt generation with proper ux:
 
