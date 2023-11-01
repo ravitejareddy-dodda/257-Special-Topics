@@ -1,4 +1,4 @@
-a) Colab, illustrating all the various prompt engineering techniques:
+a) Colab, illustrating all the various prompt engineering techniques: https://colab.research.google.com/drive/1w4eKEhZjrvANOS8Js08Eqot6LqyOgHGt?usp=sharing
 Content Overview:
 
 Setup: Instructions on how to install required libraries and set up the OpenAI API key.
@@ -19,9 +19,9 @@ Refined Asking with Specified Constraints, Examples, and Follow-up (RASCEF): Com
 
 Reason, Example, Ask, Check, Explain (REACT): Uses a structured approach to prompt the model and improve its responses.
 
-Colab for the same is here: https://colab.research.google.com/drive/1w4eKEhZjrvANOS8Js08Eqot6LqyOgHGt?usp=sharing
 
-b) different prompt templates
+
+b) different prompt templates: https://colab.research.google.com/drive/1XRlQ0ivtX_ZJ9x-7UcjJSN5pIgdPFsrg?usp=sharing
 
 ![image](https://github.com/ravitejareddy-dodda/297-Special-Topics/assets/112537198/c942c5d9-a9fc-4aea-a46f-17c6bdc35306)
 
