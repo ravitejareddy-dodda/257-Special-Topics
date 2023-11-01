@@ -1,14 +1,25 @@
 a) Colab, illustrating all the various prompt engineering techniques:
-ICL
-CoT
-iCOT
-TOT
-GOT
-AOT
-RASCEF
-REACT
+Content Overview:
 
-https://colab.research.google.com/drive/1w4eKEhZjrvANOS8Js08Eqot6LqyOgHGt?usp=sharing
+Setup: Instructions on how to install required libraries and set up the OpenAI API key.
+
+In-Context Learning (ICL): Demonstrates how providing examples within the prompt can guide the model to generate better responses.
+
+Chain of Thought (CoT): Shows how breaking down a problem into smaller steps can lead to more accurate answers.
+
+Iterated Chain of Thought (iCoT): Illustrates the process of asking the model to think deeper and consider additional factors.
+
+Textual Output Transformation (TOT): Explores how to transform the output format to match specific user expectations.
+
+Generative Output Transformation (GOT): Demonstrates using the model to refine or transform its own outputs.
+
+Asking Over Time (AOT): Shows how repeatedly asking the model the same question while incorporating previous answers can yield more comprehensive responses.
+
+Refined Asking with Specified Constraints, Examples, and Follow-up (RASCEF): Combines various techniques to refine the prompt and achieve desired results.
+
+Reason, Example, Ask, Check, Explain (REACT): Uses a structured approach to prompt the model and improve its responses.
+
+Colab for the same is here: https://colab.research.google.com/drive/1w4eKEhZjrvANOS8Js08Eqot6LqyOgHGt?usp=sharing
 
 b) different prompt templates
 
