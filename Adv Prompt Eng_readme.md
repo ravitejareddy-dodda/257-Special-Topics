@@ -38,6 +38,18 @@ Hospitality
 Law
 Environmental Science
 
+d) Implement the [https://platform.openai.com/examplesLinks to an external site.](https://platform.openai.com/examples) for palm 2 api: https://colab.research.google.com/drive/18CRfFqRNuTG5ChRbbrEZhwpG4Gy9ZHu0?usp=sharing
+
+The query_openai function is demonstrated using a translation prompt, showcasing how to obtain a response from the API.
+
+e) write function calls api example colab usecase of openai: https://colab.research.google.com/drive/1iTxEqEaxQ-YbqvZmD0b8NqR2IMeNVPRO?usp=sharing
+
+This example will send a request to the OpenAI API asking for a summary of the latest research on climate change. The call_openai_api function can be reused for any prompt you wish to send to the API, and you can adjust the model and max_tokens parameters as needed.
+
+f) write system prompt example usecase of openai:  https://colab.research.google.com/drive/1qw7HLFwBImc1LqIYmi0bpbsL2DnCAxsB?usp=sharing
+
+This example will send a request to the OpenAI API to generate content for a blog post focused on healthy eating. The output will be a detailed and informative piece that can be used for a blog or article. The call_openai_api function can be tailored with different parameters such as temperature to adjust the creativity of the response, and max_tokens to set the length of the content.
+
 
 
 
