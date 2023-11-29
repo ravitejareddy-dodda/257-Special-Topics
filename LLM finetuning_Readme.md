@@ -18,6 +18,20 @@ How to Proceed:
 
 -Create an instance of the VirtualEventPlanner and simulate the tasks of each role.
 
+c) https://colab.research.google.com/drive/1C08JonpFm01ar3oQ_JkAf1EQErkeQzex?usp=sharing
+
+d) https://colab.research.google.com/drive/1vLJTnF6eN_2YkOUO1i72qGW-nfT6uh1M?usp=sharing
+
+e) https://colab.research.google.com/drive/1HE5YNA2kAy1OLZaRAxnO27W6W6yIbnmn?usp=sharing
+
+f) https://colab.research.google.com/drive/1OBLktwiUjIq7Jp9oQXCsn01kJVSggoq6?usp=sharing
+
+g) https://colab.research.google.com/drive/16K86T64XeB7Jg4npfRuAukuYA_BEK58e?usp=sharing
+
+h) https://colab.research.google.com/drive/1WiE27Cfq0gQfnJnBru9uwP13i7vMB1pz?usp=sharing
+
+
+
 
 
 
